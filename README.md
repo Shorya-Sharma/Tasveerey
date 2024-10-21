@@ -1,12 +1,5 @@
 # Tasveerey
 
-**DBS Lab Project | Spring 2022**
-<br/>
-**Web application where people can post pictures with captions!**
-
-- Shrirang Deshmukh | 19CS01065
-- Dhiren Tripuramallu | 19CS02002
-- Sathvik Chilaka | 19CS01049
 
 ### Tech Stack Used
 
